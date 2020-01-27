@@ -1,0 +1,19 @@
+/*selector {
+    property: value;
+}*/
+
+body {
+    color: red;
+    background-color: darkkhaki;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h2 {
+    text-emphasis: red;
+}
+
+form {
+    color: red;
+}

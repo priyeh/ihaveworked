@@ -1,0 +1,24 @@
+    /*selector {
+    property: value;
+}*/
+    
+    body {
+        background-color: #5e00e9;
+        text-align: center;
+    }
+    
+    h1 {
+        background-color: #8e8e8d;
+    }
+    
+    h2 {
+        text-emphasis-color: #ff8e00;
+    }
+    
+    span {
+        text-decoration-color: #ff8e00;
+    }
+    
+    form {
+        color: #fffefa;
+    }

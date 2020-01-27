@@ -1,0 +1,21 @@
+/*selector {
+    property: value;
+}*/
+
+body {
+    background-color: #C89000;
+}
+
+h1 {
+    color: red;
+    background-color: black;
+}
+
+p {
+    background-color: gold;
+}
+
+h2 {
+    color: #FFE500;
+    border: 8px dashed gold;
+}
